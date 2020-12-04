@@ -1,0 +1,15 @@
+.PokemonItem {
+    width: 15%;
+    background-color: whitesmoke;
+    text-align: center;
+    border: 2px solid rgb(75, 154, 219);
+    border-radius: 20px;
+}
+
+.PokemonName {
+    color: rgb(83, 55, 238);
+}
+
+.PokemonType {
+    color: lightcoral;
+}
